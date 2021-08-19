@@ -1,6 +1,6 @@
 # Olá, mundo!
 
-[//]: <> (versão 0.1.1)
+[//]: <> (release 1.0.0)
 Contato: [Envie email](mailto:support@github.com)
 
 ## Introdução
