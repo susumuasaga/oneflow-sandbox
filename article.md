@@ -1,4 +1,4 @@
 # Olá, mundo!
 
-[//]: <> (versão 0.1.0)
-Contato: [Envie email](mailto:suporte@github.com)
+[//]: <> (versão 0.1.1)
+Contato: [Envie email](mailto:support@github.com)
